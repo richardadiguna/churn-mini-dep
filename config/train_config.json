@@ -1,0 +1,12 @@
+{
+    "project_name": "churn_prediction",
+    "remote_path": "/development/public_html/dimas/richard/dana_churn_prediction",
+    "remote_dataset": "/development/public_html/dimas/richard/dana_churn_prediction/train_dataset",
+    "remote_artifacts": "/development/public_html/dimas/richard/dana_churn_prediction/artifacts",
+    "sftp_host": "149.129.219.77",
+    "sftp_port": 22,
+    "sftp_username": "development",
+    "sftp_password": "development",
+    "chunk_size": 100000,
+    "split": 0.20
+}
